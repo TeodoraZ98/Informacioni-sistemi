@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_xpEuILg6Eey0x47nk5D3Ww" name="model">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_zT_-4Lg6Eey0x47nk5D3Ww" name="Activity1" node="_4abtMLg6Eey0x47nk5D3Ww _-YQ9kLg6Eey0x47nk5D3Ww _fUsiYLg7Eey0x47nk5D3Ww _6ZGj4Lg7Eey0x47nk5D3Ww _H0JzwLg8Eey0x47nk5D3Ww _JcdOULg8Eey0x47nk5D3Ww _QSOzULg8Eey0x47nk5D3Ww _RsntsLg8Eey0x47nk5D3Ww _VzOWsLg8Eey0x47nk5D3Ww _XqBgQLg8Eey0x47nk5D3Ww _cOZqYLg8Eey0x47nk5D3Ww _dbSUQLg8Eey0x47nk5D3Ww _gCXrQLg8Eey0x47nk5D3Ww _nazRYLg8Eey0x47nk5D3Ww _1txyULg9Eey0x47nk5D3Ww _7UQ5sLg9Eey0x47nk5D3Ww _AGc2ULg-Eey0x47nk5D3Ww _GxAp0Lg-Eey0x47nk5D3Ww _Ko9y0Lg-Eey0x47nk5D3Ww _MdqqoLg-Eey0x47nk5D3Ww _OyNgILg-Eey0x47nk5D3Ww _TUYq0Lg-Eey0x47nk5D3Ww _UKwSILg-Eey0x47nk5D3Ww _V4UnMLg-Eey0x47nk5D3Ww _ckouMLg-Eey0x47nk5D3Ww _dSSeYLg-Eey0x47nk5D3Ww _ge0r0Lg-Eey0x47nk5D3Ww">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_BNXicLg7Eey0x47nk5D3Ww" name="" source="_4abtMLg6Eey0x47nk5D3Ww" target="_-YQ9kLg6Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_fUzQELg7Eey0x47nk5D3Ww" name="ControlFlow" source="_-YQ9kLg6Eey0x47nk5D3Ww" target="_fUsiYLg7Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_NoTjsLg8Eey0x47nk5D3Ww" name="ControlFlow1" source="_6ZGj4Lg7Eey0x47nk5D3Ww" target="_H0JzwLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_OF6FsLg8Eey0x47nk5D3Ww" name="aa" source="_6ZGj4Lg7Eey0x47nk5D3Ww" target="_JcdOULg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_ZNca0Lg8Eey0x47nk5D3Ww" name="ControlFlow2" source="_JcdOULg8Eey0x47nk5D3Ww" target="_RsntsLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_ZnX9wLg8Eey0x47nk5D3Ww" name="ControlFlow3" source="_RsntsLg8Eey0x47nk5D3Ww" target="_XqBgQLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_asB4sLg8Eey0x47nk5D3Ww" name="ControlFlow4" source="_H0JzwLg8Eey0x47nk5D3Ww" target="_QSOzULg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_bGHzsLg8Eey0x47nk5D3Ww" name="ControlFlow5" source="_QSOzULg8Eey0x47nk5D3Ww" target="_VzOWsLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_cOfJ8Lg8Eey0x47nk5D3Ww" name="ControlFlow6" source="_XqBgQLg8Eey0x47nk5D3Ww" target="_cOZqYLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_g7baMLg8Eey0x47nk5D3Ww" name="ControlFlow7" source="_cOZqYLg8Eey0x47nk5D3Ww" target="_dbSUQLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_hbZ6wLg8Eey0x47nk5D3Ww" name="ControlFlow8" source="_cOZqYLg8Eey0x47nk5D3Ww" target="_gCXrQLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_qFv0sLg8Eey0x47nk5D3Ww" name="ControlFlow9" source="_VzOWsLg8Eey0x47nk5D3Ww" target="_nazRYLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rDOUILg9Eey0x47nk5D3Ww" name="Posredno" source="_fUsiYLg7Eey0x47nk5D3Ww" target="_6ZGj4Lg7Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_1t1csLg9Eey0x47nk5D3Ww" name="ControlFlow10" source="_dbSUQLg8Eey0x47nk5D3Ww" target="_1txyULg9Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_2TcrMLg9Eey0x47nk5D3Ww" name=" aa" source="_gCXrQLg8Eey0x47nk5D3Ww" target="_1txyULg9Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_34xDMLg9Eey0x47nk5D3Ww" name="hg" source="_1txyULg9Eey0x47nk5D3Ww" target="_nazRYLg8Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_9DbxQLg9Eey0x47nk5D3Ww" name="ControlFlow11" source="_nazRYLg8Eey0x47nk5D3Ww" target="_7UQ5sLg9Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_AGggsLg-Eey0x47nk5D3Ww" name="ControlFlow12" source="_7UQ5sLg9Eey0x47nk5D3Ww" target="_AGc2ULg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_GxKa0Lg-Eey0x47nk5D3Ww" name="Odlazak u predstavnistvo" source="_fUsiYLg7Eey0x47nk5D3Ww" target="_GxAp0Lg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_TUbuILg-Eey0x47nk5D3Ww" name="ControlFlow13" source="_OyNgILg-Eey0x47nk5D3Ww" target="_TUYq0Lg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_Yt5GILg-Eey0x47nk5D3Ww" name="ControlFlow14" source="_TUYq0Lg-Eey0x47nk5D3Ww" target="_V4UnMLg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_ZPTxILg-Eey0x47nk5D3Ww" name="ControlFlow15" source="_TUYq0Lg-Eey0x47nk5D3Ww" target="_UKwSILg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_ge3vILg-Eey0x47nk5D3Ww" name="ControlFlow16" source="_dSSeYLg-Eey0x47nk5D3Ww" target="_ge0r0Lg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_g_1uMLg-Eey0x47nk5D3Ww" name="ControlFlow17" source="_UKwSILg-Eey0x47nk5D3Ww" target="_ge0r0Lg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_h19d4Lg-Eey0x47nk5D3Ww" name="ControlFlow18" source="_ge0r0Lg-Eey0x47nk5D3Ww" target="_AGc2ULg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_ixXWMLg-Eey0x47nk5D3Ww" name="ControlFlow19" source="_GxAp0Lg-Eey0x47nk5D3Ww" target="_Ko9y0Lg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_jJQ40Lg-Eey0x47nk5D3Ww" name="ControlFlow20" source="_Ko9y0Lg-Eey0x47nk5D3Ww" target="_MdqqoLg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_jcZ3QLg-Eey0x47nk5D3Ww" name="ControlFlow21" source="_MdqqoLg-Eey0x47nk5D3Ww" target="_OyNgILg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_jzYM0Lg-Eey0x47nk5D3Ww" name="ControlFlow22" source="_V4UnMLg-Eey0x47nk5D3Ww" target="_ckouMLg-Eey0x47nk5D3Ww"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_kHzksLg-Eey0x47nk5D3Ww" name="ControlFlow23" source="_ckouMLg-Eey0x47nk5D3Ww" target="_dSSeYLg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:InitialNode" xmi:id="_4abtMLg6Eey0x47nk5D3Ww" name="InitialNode" outgoing="_BNXicLg7Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_-YQ9kLg6Eey0x47nk5D3Ww" name="Oblik kupovine" outgoing="_fUzQELg7Eey0x47nk5D3Ww" incoming="_BNXicLg7Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="_fUsiYLg7Eey0x47nk5D3Ww" name="DecisionNode" outgoing="_rDOUILg9Eey0x47nk5D3Ww _GxKa0Lg-Eey0x47nk5D3Ww" incoming="_fUzQELg7Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="_6ZGj4Lg7Eey0x47nk5D3Ww" name="DecisionNode1" outgoing="_NoTjsLg8Eey0x47nk5D3Ww _OF6FsLg8Eey0x47nk5D3Ww" incoming="_rDOUILg9Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_H0JzwLg8Eey0x47nk5D3Ww" name="Pristup platformi" outgoing="_asB4sLg8Eey0x47nk5D3Ww" incoming="_NoTjsLg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_JcdOULg8Eey0x47nk5D3Ww" name="Poziv" outgoing="_ZNca0Lg8Eey0x47nk5D3Ww" incoming="_OF6FsLg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_QSOzULg8Eey0x47nk5D3Ww" name="Odabir" outgoing="_bGHzsLg8Eey0x47nk5D3Ww" incoming="_asB4sLg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_RsntsLg8Eey0x47nk5D3Ww" name="Porucivanje" outgoing="_ZnX9wLg8Eey0x47nk5D3Ww" incoming="_ZNca0Lg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_VzOWsLg8Eey0x47nk5D3Ww" name="Unos podataka" outgoing="_qFv0sLg8Eey0x47nk5D3Ww" incoming="_bGHzsLg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_XqBgQLg8Eey0x47nk5D3Ww" name="Provera stanja" outgoing="_cOfJ8Lg8Eey0x47nk5D3Ww" incoming="_ZnX9wLg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="_cOZqYLg8Eey0x47nk5D3Ww" name="DecisionNode2" outgoing="_g7baMLg8Eey0x47nk5D3Ww _hbZ6wLg8Eey0x47nk5D3Ww" incoming="_cOfJ8Lg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_dbSUQLg8Eey0x47nk5D3Ww" name="Upit podataka" outgoing="_1t1csLg9Eey0x47nk5D3Ww" incoming="_g7baMLg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_gCXrQLg8Eey0x47nk5D3Ww" name="Obavestenje" outgoing="_2TcrMLg9Eey0x47nk5D3Ww" incoming="_hbZ6wLg8Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_nazRYLg8Eey0x47nk5D3Ww" name="Azuriranje" outgoing="_9DbxQLg9Eey0x47nk5D3Ww" incoming="_qFv0sLg8Eey0x47nk5D3Ww _34xDMLg9Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:MergeNode" xmi:id="_1txyULg9Eey0x47nk5D3Ww" name="MergeNode" outgoing="_34xDMLg9Eey0x47nk5D3Ww" incoming="_1t1csLg9Eey0x47nk5D3Ww _2TcrMLg9Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_7UQ5sLg9Eey0x47nk5D3Ww" name="Slanje" outgoing="_AGggsLg-Eey0x47nk5D3Ww" incoming="_9DbxQLg9Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:ActivityFinalNode" xmi:id="_AGc2ULg-Eey0x47nk5D3Ww" name="ActivityFinalNode" incoming="_AGggsLg-Eey0x47nk5D3Ww _h19d4Lg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="_GxAp0Lg-Eey0x47nk5D3Ww" name="DecisionNode3" outgoing="_ixXWMLg-Eey0x47nk5D3Ww" incoming="_GxKa0Lg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_Ko9y0Lg-Eey0x47nk5D3Ww" name="Odlazak u predstavnistvo" outgoing="_jJQ40Lg-Eey0x47nk5D3Ww" incoming="_ixXWMLg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_MdqqoLg-Eey0x47nk5D3Ww" name="Odabir proizvoda" outgoing="_jcZ3QLg-Eey0x47nk5D3Ww" incoming="_jJQ40Lg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_OyNgILg-Eey0x47nk5D3Ww" name="Provera dostupnosti" outgoing="_TUbuILg-Eey0x47nk5D3Ww" incoming="_jcZ3QLg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:MergeNode" xmi:id="_TUYq0Lg-Eey0x47nk5D3Ww" name="MergeNode1" outgoing="_Yt5GILg-Eey0x47nk5D3Ww _ZPTxILg-Eey0x47nk5D3Ww" incoming="_TUbuILg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_UKwSILg-Eey0x47nk5D3Ww" name="Obavestenje" outgoing="_g_1uMLg-Eey0x47nk5D3Ww" incoming="_ZPTxILg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_V4UnMLg-Eey0x47nk5D3Ww" name="Uzimanje iz magacina" outgoing="_jzYM0Lg-Eey0x47nk5D3Ww" incoming="_Yt5GILg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_ckouMLg-Eey0x47nk5D3Ww" name="Predaja" outgoing="_kHzksLg-Eey0x47nk5D3Ww" incoming="_jzYM0Lg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_dSSeYLg-Eey0x47nk5D3Ww" name="Azuriranje" outgoing="_ge3vILg-Eey0x47nk5D3Ww" incoming="_kHzksLg-Eey0x47nk5D3Ww"/>
+    <node xmi:type="uml:MergeNode" xmi:id="_ge0r0Lg-Eey0x47nk5D3Ww" name="MergeNode2" outgoing="_h19d4Lg-Eey0x47nk5D3Ww" incoming="_ge3vILg-Eey0x47nk5D3Ww _g_1uMLg-Eey0x47nk5D3Ww"/>
+  </packagedElement>
+</uml:Model>
